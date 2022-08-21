@@ -1,5 +1,7 @@
 /** @jsx jsx */
+// tells next to use the theme-ui engine to render jsx 
 import { jsx } from 'theme-ui'
+
 import Link from 'next/link'
 
 const Nav = () => (
